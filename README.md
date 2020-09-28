@@ -10,4 +10,6 @@ I’m interested in .Net, .Net Core, Postgresql and Open Source.
 [Devto](https://dev.to/huseyinsimsek)  & [Medium](https://medium.com/@huseyinsimsekk). Also, I try to write [personal blog](https://huseyinsimsekk.github.io/)
 # 📈 Github Stat
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huseyinsimsekk&theme=synthwave&show_icons=true)](https://github.com/huseyinsimsekk/github-readme-stats)
+[![Huseyin Simsek's github stats](https://github-readme-stats.vercel.app/api?username=huseyinsimsekk&theme=synthwave&show_icons=true)](https://github.com/huseyinsimsekk/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinsimsekk&langs_count=6&layout=compact&theme=dark)](https://github.com/huseyinsimsekk/github-readme-stats)
