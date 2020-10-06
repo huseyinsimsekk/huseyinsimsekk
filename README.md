@@ -4,8 +4,8 @@ I’m Huseyin Simsek, a software developer from Turkey 👨‍💻. I have been 
 
 
 <a href="https://github.com/huseyinsimsekk/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyinsimsekk&theme=graywhite&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyinsimsekk&theme=prussian&show_icons=true" />
 </a>
 <a href="https://github.com/huseyinsimsekk/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinsimsekk&langs_count=7&layout=compact&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinsimsekk&langs_count=7&layout=compact&theme=prussian" />
 </a>
