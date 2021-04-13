@@ -6,9 +6,7 @@ I love to share information, I try to write blogs in [Medium](https://medium.com
 
 ![](https://visitor-badge.glitch.me/badge?page_id=huseyinsimsekk.huseyinsimsekk)
 
-<a href="https://github.com/huseyinsimsekk/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyinsimsekk&theme=blueberry&show_icons=true" />
-</a>
+
 
 🚀 Tech Stack
 
@@ -18,3 +16,8 @@ I love to share information, I try to write blogs in [Medium](https://medium.com
 🧷 Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="dot-net logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="dot-net logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="dot-net logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="dot-net logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" alt="dot-net logo" width="50" height="50"/>
+
+
+<a href="https://github.com/huseyinsimsekk/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyinsimsekk&theme=blueberry&show_icons=true" />
+</a>
