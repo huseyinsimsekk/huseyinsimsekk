@@ -1,10 +1,6 @@
 # Hi there 👋
 
-I’m Huseyin, a software developer from Turkey 👨‍💻. I have been working in IT industry since 2018. I’m interested in .Net, .Net Core, Postgresql, Javascript and Open Source. 
-
-I love to share information, I try to write blogs in [Medium](https://medium.com/@huseyinsimsekk), [Devto](https://dev.to/huseyinsimsek) and [personal blog](https://simsekhuseyin.com/).
-
-![](https://visitor-badge.glitch.me/badge?page_id=huseyinsimsekk.huseyinsimsekk)
+I’m Huseyin, a software developer from Turkey 👨‍💻. I have been working in IT industry since 2018. I’m interested in .Net, .Net Core, Postgresql, Javascript and Open Source. I love to share information, I try to write blogs in [Medium](https://medium.com/@huseyinsimsekk), [Devto](https://dev.to/huseyinsimsek) and [personal blog](https://simsekhuseyin.com/). ![](https://visitor-badge.glitch.me/badge?page_id=huseyinsimsekk.huseyinsimsekk)
 
 
 
